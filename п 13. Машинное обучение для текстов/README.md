@@ -12,3 +12,4 @@
 pandas, ntlk, tf-idf
 ``
 
+2026г
