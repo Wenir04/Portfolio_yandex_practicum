@@ -13,3 +13,4 @@
 pandas, NumPy, scikit-learn
 ``
 
+2026г
