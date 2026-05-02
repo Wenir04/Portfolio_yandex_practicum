@@ -18,3 +18,4 @@
 pandas, scikit-learn, бустреп
 ``
 
+2026г
