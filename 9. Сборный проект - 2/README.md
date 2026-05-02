@@ -9,3 +9,4 @@
 pandas, NumPy, Matplotlib, scikit-learn
 ``
 
+2026г
