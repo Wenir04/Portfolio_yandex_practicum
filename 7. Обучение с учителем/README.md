@@ -29,3 +29,4 @@
 pandas, scikit-learn, Matplotlib
 ``
 
+2026г
