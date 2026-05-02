@@ -9,3 +9,4 @@
 pandas, NumPy, scikit-learn, statsmodels
 ``
 
+2026г
