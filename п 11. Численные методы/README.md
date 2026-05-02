@@ -30,3 +30,4 @@
 pandas, NumPy, lightgbm
 ``
 
+2026г
