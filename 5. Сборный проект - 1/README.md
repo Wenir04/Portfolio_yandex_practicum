@@ -29,3 +29,4 @@
 pandas, NumPy, Matplotlib
 ``
 
+2026г
